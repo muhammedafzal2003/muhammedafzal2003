@@ -3,17 +3,17 @@
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedafzal2003&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedafzal2003" /> </p>
 
-- 🔭 I’m currently working on [TELEGRAM CHANNEL](https://t.me/+pTB4BwLjw3dlNzA1)
+- 🔭 I’m currently working on
+ [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/+pTB4BwLjw3dlNzA1)
+- 🌱 I’m currently learning [<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />](https://www.python.org/)
 
-- 🌱 I’m currently learning **Python**
+- 👯 I’m looking to collaborate on [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  />](https://www.instagram.com/innocent__boy_ajju?igsh=MWhoeXEyOGQ4d3JhaQ==)
 
-- 👯 I’m looking to collaborate on [INSTAGRAM](https://www.instagram.com/innocent__boy_ajju?igsh=MWhoeXEyOGQ4d3JhaQ==)
+- 🤝 I’m looking for help with 
+ [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/+pTB4BwLjw3dlNzA1)
+- 💬 the short message on [<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.com/invite/D3dZXTM6VF)
 
-- 🤝 I’m looking for help with [TELEGRAM](https://t.me/+pTB4BwLjw3dlNzA1)
-
-- 💬 Ask me about **DEVELOPER**
-
-- ⚡ Fun fact **I AM A DEVELOPER**
+- ⚡ fun fact  [<img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />](http://afzalstargalaxy.blogspot.com/2024/07/star-galaxy.html)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
