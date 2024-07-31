@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MUHAMMED AFZAL</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate frontend developer in tamil nadu</h3>
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedafzal2003&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedafzal2003" /> </p>
 
